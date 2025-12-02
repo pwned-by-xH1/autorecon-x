@@ -17,7 +17,7 @@
 
 ```bash
 # 1. Clonar el repositorio
-git clone [https://github.com/pwned-by-xH1/autorecon-x.git](https://github.com/pwned-by-xH1/autorecon-x.git)
+git clone https://github.com/pwned-by-xH1/autorecon-x.git
 
 # 2. Entrar al directorio
 cd autorecon-x
